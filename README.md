@@ -6,21 +6,21 @@ This project focuses on Customer Insights Through Exploratory Data Analysis (EDA
 
 🚀 Key Objectives
 
-Data Cleaning & Preprocessing: Handling missing values, removing duplicates, and structuring data for analysis.
-Exploratory Data Analysis (EDA): Using statistical and visualization techniques to extract insights.
-Business Impact: Identifying top-selling products and categories to improve customer experience and inventory management.
+- Data Cleaning & Preprocessing: Handling missing values, removing duplicates, and structuring data for analysis.
+- Exploratory Data Analysis (EDA): Using statistical and visualization techniques to extract insights.
+- Business Impact: Identifying top-selling products and categories to improve customer experience and inventory management.
 
 🛠️ Tools & Libraries Used
 
-pandas – Data cleaning, manipulation, and analysis
-matplotlib – Data visualization
-seaborn – Statistical data visualization
+- pandas – Data cleaning, manipulation, and analysis
+- matplotlib – Data visualization
+- seaborn – Statistical data visualization
 
 📊 Insights & Outcomes
 
-Identified top-selling products and popular categories.
-Provided data-driven recommendations to optimize inventory management.
-Recognized customer preferences to enhance their shopping experience
+- Identified top-selling products and popular categories.
+- rovided data-driven recommendations to optimize inventory management.
+- Recognized customer preferences to enhance their shopping experience
 
 📂 How to Run the Project
 
